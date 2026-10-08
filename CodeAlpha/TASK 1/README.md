@@ -41,4 +41,4 @@ CodeAlpha_FAQChatBot/
 ```
 
 ## Author
-Ashutosh — CodeAlpha AI Internship
+Purusharth Tripathi — CodeAlpha AI Internship
