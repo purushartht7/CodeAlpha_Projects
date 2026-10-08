@@ -38,4 +38,4 @@ CodeAlpha_LanguageTranslationTool/
 ```
 
 ## Author
-Ashutosh — CodeAlpha AI Internship
+Purusharth Tripathi — CodeAlpha AI Internship
